@@ -27,9 +27,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=justsomeone-e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justsomeone-e&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsomeone-e&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justsomeone-e&theme=github_dark" />
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=justsomeone-e&theme=tokyo-night&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justsomeone-e&theme=github_dark" />
 
 </div>
 
