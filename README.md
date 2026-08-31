@@ -1,82 +1,67 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Someone — systems programmer" />
+</p>
 
-<img src="./shinobu.gif" width="100%" />
+<p align="center">
+  <code>systems programmer</code>&nbsp;&nbsp;
+  <code>runtime observer</code>&nbsp;&nbsp;
+  <code>open source</code>
+</p>
 
 <br />
 
-<pre align="left">
-$ whoami
-someone
+<p><strong>01 // PROCESS</strong></p>
 
-$ cat /etc/profile
-systems programmer
-low-level systems / WebAssembly / open source
+```text
+handle    justsomeone-e
+focus     systems, runtimes, WebAssembly
+method    read the source, remove assumptions, keep the useful parts
+status    somewhere below the abstraction layer
+```
 
-$ status
-quietly building things that should not break
-</pre>
+I work close to the machine. Most interfaces hide what matters.
+The interesting part starts when the abstraction stops explaining itself.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Nothing+is+really+invisible;Look+closer;Read+the+source" />
+<br />
 
-</div>
+<p><strong>02 // TOOLCHAIN</strong></p>
 
----
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-## About
-
-I work close to the machine.
-
-Most interfaces hide what matters. I prefer finding out how things actually work.
-
-Currently exploring systems programming, WebAssembly and software that stays understandable after the first compile.
-
-</td>
-<td valign="top" width="50%">
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,ts,python,go,wasm,rust" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,wasm,ts,python&theme=dark" height="48" alt="C, C++, Rust, Go, WebAssembly, TypeScript and Python" />
 </p>
 
 ```text
-C             low-level control
-C++           systems and performance
-Rust          safety without giving up control
-Go            simple services and tooling
-TypeScript    interfaces and experiments
-Python        automation and quick prototypes
-WebAssembly   code beyond the usual runtime
+C / C++         memory, systems, performance
+Rust            control with fewer invisible mistakes
+Go              small tools and boring services
+WebAssembly     code outside its expected environment
+TypeScript      interfaces, tooling, experiments
+Python          automation and disposable prototypes
 ```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## GitHub Activity
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justsomeone-e&theme=github_dark&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=00ff41&chart_color=00ff41" />
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justsomeone-e&theme=github_dark&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=00ff41&chart_color=00ff41" />
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justsomeone-e&theme=github_dark&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=00ff41&chart_color=00ff41" />
+<details>
+<summary><strong>03 // INTERCEPTED FRAME</strong></summary>
+<br />
+<p align="center">
+  <img src="./shinobu.gif" width="72%" alt="Animated profile visual" />
+</p>
+</details>
 
-</div>
+<br />
 
----
+<p><strong>04 // TELEMETRY</strong></p>
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justsomeone-e&theme=github_dark&title_color=a78bfa&text_color=d4d4d8&bg_color=0a0b10&border_color=404452&icon_color=22d3ee&chart_color=a78bfa" alt="GitHub statistics" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justsomeone-e&theme=github_dark&title_color=a78bfa&text_color=d4d4d8&bg_color=0a0b10&border_color=404452&icon_color=22d3ee&chart_color=a78bfa" alt="Languages by repository" />
+</p>
 
-<sub>There is always another layer.</sub>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justsomeone-e&theme=github_dark&title_color=a78bfa&text_color=d4d4d8&bg_color=0a0b10&border_color=404452&icon_color=22d3ee&chart_color=a78bfa" alt="GitHub contribution details" />
+</p>
 
-</div>
+<br />
+
+<pre align="center">THERE IS ALWAYS ANOTHER LAYER.</pre>
