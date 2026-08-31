@@ -1,21 +1,21 @@
 <div align="center">
 
-# Hi, I'm Someone
+# Someone
 
-### Developer | Systems Programming | WebAssembly Enthusiast
+### Systems programmer. Usually awake when the systems aren't.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Building+things+with+code;Exploring+low-level+systems;Learning+something+new+every+day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Code+is+just+another+way+to+see+the+system;Nothing+is+really+invisible;Keep+looking+closer" />
 
 </div>
 
 ---
 
-## About Me
+## About
 
-- Interested in systems programming and modern web technologies
-- Exploring WebAssembly, Rust, C++ and Go
-- Always learning and experimenting
-- Focused on writing clean and useful software
+- I work close to the machine.
+- C, C++, Rust, Go, TypeScript, Python and WebAssembly.
+- Most interfaces hide what matters.
+- I prefer finding out how things actually work.
 
 ## Languages and Technologies
 
@@ -41,7 +41,7 @@
 
 </div>
 
-## Profile Visual
+## Visual Noise
 
 <div align="center">
 
@@ -50,9 +50,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-Thanks for visiting my profile
-
-</div>
