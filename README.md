@@ -82,7 +82,7 @@ static const struct MemorySegment TRUTH_TABLE[] = {
   PID USER     COMMAND
     1 root     /sbin/init [paranoia_mode=active]
   104 root      \_ /usr/bin/kernel_memory_guard
-  402 justsom   \_ /usr/bin/neovim --raw-bytecode
+  402 justsom   \_ /usr/bin/radare2 -d ./core_dump
   880 justsom   \_ /usr/bin/gdb -q ./society
  1337 justsom       \_ [reverse_engineer] trace_syscalls -> /dev/null
 ```
@@ -98,13 +98,13 @@ static const struct MemorySegment TRUTH_TABLE[] = {
 <!-- Tier 1: Ring 0 / Low Level -->
 <p align="center">
 <samp><b>[ RING 0 & BARE METAL ]</b></samp><br />
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,asm&theme=dark" height="42" alt="C, C++, Rust, Zig, ASM" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,asm&theme=dark" height="42" alt="C, C++, Rust, ASM" />
 </p>
 
 <!-- Tier 2: Environment & Analysis -->
 <p align="center">
 <samp><b>[ ENVIRONMENT & REVERSING ]</b></samp><br />
-<img src="https://skillicons.dev/icons?i=arch,linux,neovim,bash,docker&theme=dark" height="42" alt="Arch, Linux, Neovim, Bash, Docker" />
+<img src="https://skillicons.dev/icons?i=arch,linux,bash&theme=dark" height="42" alt="Arch, Linux, Bash" />
 </p>
 
 <!-- Tier 3: Higher Interfaces -->
