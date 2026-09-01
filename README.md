@@ -1,8 +1,10 @@
 <div align="center">
 
+# I guess I'm a lamer for people
+
 <img src="./shinobu.gif" width="100%" alt="Profile banner" />
 
-# justsomeone-e
+# justsomeone
 
 <!-- Live Animated Terminal Typing Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Hello%2C+friend.;Control+is+an+illusion.;Are+you+a+1+or+a+0%3F;root%40archlinux%3A~%23+strace+-e+trace%3Dmemory+.%2Freality;I+read+the+source.+I+remove+assumptions.;Every+bug+is+a+confession." alt="Typing SVG" />
