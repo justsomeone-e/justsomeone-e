@@ -2,7 +2,7 @@
 
 # I guess I'm a lamer for people
 
-<img src="./shinobu.gif" width="100%" alt="Profile banner" />
+<img src="./elliot.gif" width="100%" alt="Profile banner" />
 
 # justsomeone
 
