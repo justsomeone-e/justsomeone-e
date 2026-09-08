@@ -1,41 +1,41 @@
 <div align="center">
 
-<img src="./elliot.gif" width="100%" alt="Elliot Alderson" />
+<img src="./elliot.gif" width="680" alt="Elliot Alderson" />
 
 # justsomeone-e
 
-`compiler tooling · reverse engineering · systems`
+<samp>compilers / reverse engineering / systems</samp>
 
 </div>
 
-I like following software past the interface: through the compiler, the ABI,
-the generated code, and whatever the machine actually executes.
+> I learn software by taking it apart — and sometimes by building my own.
 
-## Current work
+## Nyx
 
-### [Nyx](https://github.com/justsomeone-e/nyx)
+My main project is [Nyx](https://github.com/justsomeone-e/nyx), a self-hosted
+typed language platform built around one canonical Typed HIR.
 
-A self-hosted typed language platform built around a canonical Typed HIR.
-It targets C++20, JavaScript, Python, and WebAssembly, with experimental C17
-and direct LLVM IR backends.
+```text
+source → parser → Typed HIR → C++20 / JavaScript / Python / WebAssembly
+                           ↘ experimental C17 / LLVM IR
+```
 
-[Source](https://github.com/justsomeone-e/nyx) · [Releases](https://github.com/justsomeone-e/nyx/releases) · [Tour of Nyx](https://justsomeone-e.github.io/nyx/)
+It started as a small language experiment and grew into a compiler, native
+self-hosting pipeline, package tooling, editor support, reproducible releases,
+and programs built entirely in Nyx.
 
-### [MadC](https://github.com/derekbsnider/madc)
+[Source](https://github.com/justsomeone-e/nyx) · [Latest release](https://github.com/justsomeone-e/nyx/releases/latest) · [Tour](https://justsomeone-e.github.io/nyx/)
 
-Contributed machine-readable compiler capability discovery for the v0.99.0
-line. I am exploring the overlap between typed IRs, C-shaped semantic trees,
-C2MIR, and embeddable JIT/AOT toolchains.
+## Under the surface
 
-## Interests
+I am interested in compiler internals, IR design, native binaries, ABIs,
+WebAssembly, debugging, and reverse engineering. I care less about what a tool
+claims to do than what survives inspection.
 
-Compilers and language design, reverse engineering, native tooling,
-WebAssembly, ABI boundaries, and systems that can explain what they are doing.
-
-`Rust` · `C++` · `C` · `Python` · `TypeScript` · `Go` · `WebAssembly`
+`Rust` · `C++` · `C` · `WebAssembly` · `Python` · `TypeScript`
 
 <div align="center">
 
-<sub>I read the source. I remove assumptions. I keep what survives.</sub>
+<sub>Read the source. Check the output. Keep what survives.</sub>
 
 </div>
