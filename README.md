@@ -1,41 +1,75 @@
 <div align="center">
 
-<img src="./elliot.gif" width="680" alt="Elliot Alderson" />
+# justsomeone
 
-# justsomeone-e
+<sub>building • learning • experimenting</sub>
 
-<samp>compilers / reverse engineering / systems</samp>
+<br><br>
+
+I like understanding how things work beneath the surface.
+
+Software, systems, compilers, hardware, tooling —  
+anything that makes me stop and ask:
+
+**“How does this actually work?”**
 
 </div>
 
-> I learn software by taking it apart — and sometimes by building my own.
+---
 
-## Nyx
+### About me
 
-My main project is [Nyx](https://github.com/justsomeone-e/nyx), a self-hosted
-typed language platform built around one canonical Typed HIR.
+I’m not here to build a polished personal brand.
 
-```text
-source → parser → Typed HIR → C++20 / JavaScript / Python / WebAssembly
-                           ↘ experimental C17 / LLVM IR
-```
+I use this profile as a place to experiment, learn, break things,
+rebuild them, and occasionally turn an idea into something real.
 
-It started as a small language experiment and grew into a compiler, native
-self-hosting pipeline, package tooling, editor support, reproducible releases,
-and programs built entirely in Nyx.
+Most of my interests sit somewhere between software and hardware.
 
-[Source](https://github.com/justsomeone-e/nyx) · [Latest release](https://github.com/justsomeone-e/nyx/releases/latest) · [Tour](https://justsomeone-e.github.io/nyx/)
+I enjoy working close enough to the machine to understand what is happening,
+but high enough to still care about design, simplicity, and usability.
 
-## Under the surface
+---
 
-I am interested in compiler internals, IR design, native binaries, ABIs,
-WebAssembly, debugging, and reverse engineering. I care less about what a tool
-claims to do than what survives inspection.
+### Things I’m interested in
 
-`Rust` · `C++` · `C` · `WebAssembly` · `Python` · `TypeScript`
+- Programming language design
+- Compilers and intermediate representations
+- Systems programming
+- Native code and low-level software
+- Developer tooling
+- Embedded systems
+- Electronics
+- Reverse engineering
+- Performance and architecture
+- Learning how existing systems were built
+
+---
+
+### How I work
+
+I usually learn by building.
+
+Instead of only reading how something works, I prefer to make a small version,
+break it, inspect what went wrong, and improve it from there.
+
+A lot of the repositories here are exactly that:
+
+experiments, unfinished ideas, prototypes, tools,
+and projects that became more serious than originally intended.
+
+---
 
 <div align="center">
 
-<sub>Read the source. Check the output. Keep what survives.</sub>
+<br>
+
+I don’t know everything.
+
+I just like going deep enough to understand a little more than yesterday.
+
+<br>
+
+<sub>no company • no persona • just someone</sub>
 
 </div>
